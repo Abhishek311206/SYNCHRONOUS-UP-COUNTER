@@ -1,5 +1,6 @@
+# Name : B ABHISHEK 
+# Reg No : 212224050001
 ### SYNCHRONOUS-UP-COUNTER
-
 **AIM:**
 
 To implement 4 bit synchronous up counter and validate functionality.
